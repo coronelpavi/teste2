@@ -1,0 +1,26 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução à Python
+# Prof. Cloves Rocha
+# Estudante: Davi Melo Mendonça
+
+# x = 2
+# print (type(x))
+
+# x = 'Olá mundo!'
+# print(x)
+# print(type(x))
+
+# x = 2
+# y = 3
+# print(x == y)
+
+# x = 2**3
+# print (x)
+
+# x = (10//3) bug colab
+# print(x)
+
+# x = 10%3 bug colab
+# print (x)
+
+print ('Seja Bem-Vindo(a)')
